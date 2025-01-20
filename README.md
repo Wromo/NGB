@@ -285,3 +285,8 @@ payment_intent = stripe.PaymentIntent.create(
 
 
 ---
+
+
+If you like my vision of the real future for blockchain, you can support it becoming a reality.
+
+LG
