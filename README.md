@@ -4,6 +4,8 @@ Global Coin Network
 
 e.g. COIN = BETACOIN
 
+## **Certificate Authority (CA) + Directed Acyclic Graph (DAG),  is more efficient than blockchain.**
+
 ---
 
 A major problem of traditional blockchains such as Bitcoin: **excessive energy consumption**.
