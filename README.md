@@ -2,6 +2,9 @@
 Next Generation Blockchain
 Global Coin Network
 
+
+LIVE Model test to https://explorer.wromo.org/   the wallet to https://wallet.wromo.org/
+
 e.g. COIN = BETACOIN
 
 ## **Certificate Authority (CA) + Directed Acyclic Graph (DAG),  is more efficient than blockchain.**
